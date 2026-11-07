@@ -1,7 +1,5 @@
 # conditional-access-as-code
 
-Managing Entra ID Conditional Access policies the way you'd manage code: kept in Git,
-reviewed through pull requests and tested before they go live.
 
 I work with Entra ID and Intune every day, and Conditional Access is the part I'm most
 careful with. One wrong exclusion can lock people out or quietly leave a gap, and most
