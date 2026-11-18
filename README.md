@@ -1,6 +1,5 @@
 # conditional-access-as-code
 
-
 I work with Entra ID and Intune every day, and Conditional Access is the part I'm most
 careful with. One wrong exclusion can lock people out or quietly leave a gap, and most
 changes are still made by hand in the portal with nobody reviewing them. I wanted to
@@ -18,8 +17,8 @@ build a safer way to do it.
 
 ## Status
 
-Still a work in progress. I'm aiming for a first version in January 2027. Everything runs
-in my own lab tenant, with nothing from work.
+Still a work in progress. I'm aiming to have a first working version by the end of
+December 2026. Everything runs in my own lab tenant, with nothing from work.
 
 - [ ] Policy format and linting
 - [ ] Persona tests (pytest)
