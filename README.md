@@ -17,8 +17,8 @@ build a safer way to do it.
 
 ## Status
 
-Still a work in progress. I'm aiming to have a first working version by the end of
-December 2026. Everything runs in my own lab tenant, with nothing from work.
+Still a work in progress. I'm aiming for a first version in January 2027. Everything runs
+in my own lab tenant, with nothing from work.
 
 - [ ] Policy format and linting
 - [ ] Persona tests (pytest)
